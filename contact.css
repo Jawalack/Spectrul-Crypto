@@ -57,7 +57,7 @@ ul li.active a{
 	justify-content: flex-end;
 	align-items: flex-start;
 	flex-direction: column;
-	background: url(../poze/cryptocurrency.jpg);
+	background: url(cryptocurrency.jpg);
 	background-size: cover;
 }
 .contact .content{
